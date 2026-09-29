@@ -5,6 +5,7 @@ public class a1
     private String name;
     private int age;
 
+    // parameterized constructor 
     public a1(String name, int age)
     {
         this.name = name;
